@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Apr  4 19:28:42 2019
+# Process ID: 5652
+# Current directory: C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7624 C:\Users\admin\repo\Zybo-Z7-20-pcam-5c-26oct\proj\pcam-5c.xpr
+# Log file: C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj/vivado.log
+# Journal file: C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj/pcam-5c.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/repo'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Kits/Ti/beaglebone/Xilinx/Vivado/2017.4/data/ip'.
+WARNING: [IP_Flow 19-3664] IP 'system_MIPI_CSI_2_RX_0_0' generated file not found 'c:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/src/bd/system/ip/system_MIPI_CSI_2_RX_0_0/hdl/ila_rxclk_lane/ila_rxclk_lane.xci'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'system_MIPI_CSI_2_RX_0_0' generated file not found 'c:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/src/bd/system/ip/system_MIPI_CSI_2_RX_0_0/hdl/ila_rxclk/ila_rxclk.xci'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'system_MIPI_CSI_2_RX_0_0' generated file not found 'c:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/src/bd/system/ip/system_MIPI_CSI_2_RX_0_0/hdl/ila_vidclk/ila_vidclk.xci'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'system_MIPI_CSI_2_RX_0_0' generated file not found 'c:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/src/bd/system/ip/system_MIPI_CSI_2_RX_0_0/system_MIPI_CSI_2_RX_0_0.dcp'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'system_MIPI_CSI_2_RX_0_0' generated file not found 'c:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/src/bd/system/ip/system_MIPI_CSI_2_RX_0_0/system_MIPI_CSI_2_RX_0_0_stub.v'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'system_MIPI_CSI_2_RX_0_0' generated file not found 'c:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/src/bd/system/ip/system_MIPI_CSI_2_RX_0_0/system_MIPI_CSI_2_RX_0_0_stub.vhdl'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'system_MIPI_CSI_2_RX_0_0' generated file not found 'c:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/src/bd/system/ip/system_MIPI_CSI_2_RX_0_0/system_MIPI_CSI_2_RX_0_0_sim_netlist.v'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'system_MIPI_CSI_2_RX_0_0' generated file not found 'c:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/src/bd/system/ip/system_MIPI_CSI_2_RX_0_0/system_MIPI_CSI_2_RX_0_0_sim_netlist.vhdl'. Please regenerate to continue.
+ERROR: [IP_Flow 19-993] Could not find IP file for IP 'ila_rxclk_lane'.
+CRITICAL WARNING: [IP_Flow 19-5097] Unable to determine VLNV from IP file; verify it has the correct syntax: 
+CRITICAL WARNING: [IP_Flow 19-3577] Failed to recreate IP instance 'system_MIPI_CSI_2_RX_0_0'. Error during subcore creation.
+open_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:25 . Memory (MB): peak = 855.082 ; gain = 229.844
+ERROR: [Common 17-39] 'open_project' failed due to earlier errors.
+update_compile_order -fileset sources_1

@@ -1,0 +1,129 @@
+/*
+
+Xilinx Vivado v2017.4 (64-bit) [Major: 2017, Minor: 4]
+SW Build: 2086221 on Fri Dec 15 20:55:39 MST 2017
+IP Build: 2085800 on Fri Dec 15 22:25:07 MST 2017
+
+Process ID: 5652
+License: Customer
+
+Current time: 	Thu Apr 04 19:29:14 EEST 2019
+Time zone: 	Eastern European Time (Europe/Athens)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 4
+
+Screen size: 1920x1080
+Screen resolution (DPI): 96
+Available screens: 1
+Available disk space: 106 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	D:/Kits/Ti/beaglebone/Xilinx/Vivado/2017.4/tps/win64/jre
+JVM executable location: 	D:/Kits/Ti/beaglebone/Xilinx/Vivado/2017.4/tps/win64/jre/bin/java.exe
+
+User name: 	admin
+User home directory: C:/Users/admin
+User working directory: C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: D:/Kits/Ti/beaglebone/Xilinx/Vivado
+HDI_APPROOT: D:/Kits/Ti/beaglebone/Xilinx/Vivado/2017.4
+RDI_DATADIR: D:/Kits/Ti/beaglebone/Xilinx/Vivado/2017.4/data
+RDI_BINDIR: D:/Kits/Ti/beaglebone/Xilinx/Vivado/2017.4/bin
+
+Vivado preferences file location: C:/Users/admin/AppData/Roaming/Xilinx/Vivado/2017.4/vivado.xml
+Vivado preferences directory: C:/Users/admin/AppData/Roaming/Xilinx/Vivado/2017.4/
+Vivado layouts directory: C:/Users/admin/AppData/Roaming/Xilinx/Vivado/2017.4/layouts
+PlanAhead jar file location: 	D:/Kits/Ti/beaglebone/Xilinx/Vivado/2017.4/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj/vivado.log
+Vivado journal file location: 	C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj/vivado.jou
+Engine tmp dir: 	C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj/.Xil/Vivado-5652-B114-S3
+
+GUI allocated memory:	134 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 506 MB
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// TclEventType: PROJECT_OPEN_DIALOG
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 44 MB (+43341kb) [00:00:08]
+// [Engine Memory]: 458 MB (+328964kb) [00:00:08]
+// bs (cj):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\admin\repo\Zybo-Z7-20-pcam-5c-26oct\proj\pcam-5c.xpr. Version: Vivado v2017.4 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj/pcam-5c.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_FAILED
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// [GUI Memory]: 51 MB (+5526kb) [00:00:11]
+// [Engine Memory]: 507 MB (+27172kb) [00:00:11]
+// HMemoryUtils.trashcanNow. Engine heap size: 507 MB. GUI used memory: 37 MB. Current time: 4/4/19 7:29:16 PM EEST
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// [Engine Memory]: 575 MB (+44808kb) [00:00:21]
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_NEW
+// [Engine Memory]: 663 MB (+61582kb) [00:00:28]
+// [GUI Memory]: 58 MB (+4494kb) [00:00:29]
+// [GUI Memory]: 71 MB (+10474kb) [00:00:30]
+// [Engine Memory]: 699 MB (+3324kb) [00:00:30]
+// [GUI Memory]: 77 MB (+2294kb) [00:00:32]
+// [GUI Memory]: 81 MB (+138kb) [00:00:32]
+// Tcl Message: open_project C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj/pcam-5c.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/repo'. INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Kits/Ti/beaglebone/Xilinx/Vivado/2017.4/data/ip'. 
+// Tcl Message: ERROR: [IP_Flow 19-993] Could not find IP file for IP 'ila_rxclk_lane'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 742 MB. GUI used memory: 66 MB. Current time: 4/4/19 7:29:37 PM EEST
+// Tcl Message: open_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:25 . Memory (MB): peak = 855.082 ; gain = 229.844 
+// Tcl Message: ERROR: [Common 17-39] 'open_project' failed due to earlier errors. 
+// CommandFailedException: ERROR: [Common 17-69] Command failed: ERROR: [Common 17-39] 'open_project' failed due to earlier errors.  
+// [Engine Memory]: 742 MB (+8641kb) [00:00:33]
+dismissDialog("Open Project"); // bs (cj)
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// a (cj): Critical Messages: addNotify
+selectButton(PAResourceAtoD.CmdMsgDialog_OK, "OK"); // f (a)
+// TclEventType: DG_GRAPH_GENERATED
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: update_compile_order -fileset sources_1 
+selectButton(PAResourceAtoD.CmdMsgDialog_OK, "OK"); // f (a)
+dismissDialog("Critical Messages"); // a (cj)
+// [GUI Memory]: 89 MB (+4015kb) [00:00:42]
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_GRAPH_GENERATED
+// [GUI Memory]: 93 MB (+113kb) [00:00:48]
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_GRAPH_GENERATED
+// [GUI Memory]: 98 MB (+338kb) [00:01:41]
+// [GUI Memory]: 103 MB (+299kb) [00:01:51]
+// [GUI Memory]: 109 MB (+531kb) [00:05:26]
+// Elapsed time: 293 seconds
+selectButton(PAResourceQtoS.RunGadget_SHOW_ERROR, "1 error"); // h (N, cj)
+// Run Command: PAResourceCommand.PACommandNames_MESSAGE_WINDOW
+// WARNING: HTimer (ExpRunMonitor Open Timer) is taking too long to process. Increasing delay to 6000 ms.
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking too long to process. Increasing delay to 3000 ms.
+// WARNING: HSwingWorker (Update Runs Swing Worker) is taking too long to process. Increasing delay to 3000 ms.
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking too long to process. Increasing delay to 4000 ms.
+// WARNING: HSwingWorker (Update Runs Swing Worker) is taking too long to process. Increasing delay to 4000 ms.
+// WARNING: HTimer (ExpRunMonitor Open Timer) is taking too long to process. Increasing delay to 7000 ms.
+// WARNING: HTimer (ExpRunMonitor Open Timer) is taking too long to process. Increasing delay to 8000 ms.
+// WARNING: HSwingWorker (Update Runs Swing Worker) is taking too long to process. Increasing delay to 5000 ms.
+// [GUI Memory]: 116 MB (+1102kb) [00:20:51]
+// HMemoryUtils.trashcanNow. Engine heap size: 748 MB. GUI used memory: 60 MB. Current time: 4/4/19 7:59:39 PM EEST

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="system_MIPI_CSI_2_RX_0_0_synth_1" LaunchDir="C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj/pcam-5c.runs/system_MIPI_CSI_2_RX_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_DVIClocking_0_0_synth_1" LaunchDir="C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj/pcam-5c.runs/system_DVIClocking_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Apr  4 19:28:42 2019
+# Process ID: 5652
+# Current directory: C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7624 C:\Users\admin\repo\Zybo-Z7-20-pcam-5c-26oct\proj\pcam-5c.xpr
+# Log file: C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj/vivado.log
+# Journal file: C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/admin/repo/Zybo-Z7-20-pcam-5c-26oct/proj/pcam-5c.xpr
+update_compile_order -fileset sources_1

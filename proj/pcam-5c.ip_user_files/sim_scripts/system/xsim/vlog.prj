@@ -1,0 +1,19 @@
+verilog xil_defaultlib --include "../../../../../src/bd/system/ip/system_MIPI_D_PHY_RX_0_0/hdl/ila_sfen_rxclk/hdl/verilog" --include "../../../../../src/bd/system/ip/system_MIPI_D_PHY_RX_0_0/hdl/ila_sfen_refclk/hdl/verilog" --include "../../../../../src/bd/system/ip/system_MIPI_D_PHY_RX_0_0/hdl/ila_scnn_refclk/hdl/verilog" --include "../../../../../src/bd/system/ipshared/f8d8/hdl" --include "../../../../../src/bd/system/ipshared/4868" --include "../../../../../src/bd/system/ipshared/ec67/hdl" --include "../../../../../src/bd/system/ipshared/02c8/hdl/verilog" --include "../../../../../src/bd/system/ipshared/1313/hdl" --include "../../../../../src/bd/system/ip/system_MIPI_CSI_2_RX_0_0_1/hdl/line_buffer/hdl" --include "../../../../../src/bd/system/ip/system_MIPI_CSI_2_RX_0_0_1/hdl/ila_rxclk_lane/hdl/verilog" --include "../../../../../src/bd/system/ip/system_MIPI_CSI_2_RX_0_0_1/hdl/ila_rxclk/hdl/verilog" --include "../../../../../src/bd/system/ip/system_MIPI_CSI_2_RX_0_0_1/hdl/ila_vidclk/hdl/verilog" \
+"../../../bd/system/ip/system_clk_wiz_0_0/system_clk_wiz_0_0_clk_wiz.v" \
+"../../../bd/system/ip/system_clk_wiz_0_0/system_clk_wiz_0_0.v" \
+"../../../bd/system/ip/system_processing_system7_0_0/sim/system_processing_system7_0_0.v" \
+"../../../bd/system/ip/system_v_axi4s_vid_out_0_0/sim/system_v_axi4s_vid_out_0_0.v" \
+"../../../bd/system/ip/system_xlconcat_0_0/sim/system_xlconcat_0_0.v" \
+"../../../bd/system/ip/system_video_dynclk_1/system_video_dynclk_1_mmcm_pll_drp.v" \
+"../../../bd/system/ip/system_video_dynclk_1/system_video_dynclk_1_clk_wiz.v" \
+"../../../bd/system/ip/system_video_dynclk_1/system_video_dynclk_1.v" \
+"../../../bd/system/ip/system_xbar_0/sim/system_xbar_0.v" \
+"../../../bd/system/ip/system_MIPI_CSI_2_RX_0_0_1/hdl/line_buffer/sim/line_buffer.v" \
+"../../../bd/system/ip/system_MIPI_CSI_2_RX_0_0_1/hdl/cdc_fifo/sim/cdc_fifo.v" \
+"../../../bd/system/ip/system_auto_pc_2/sim/system_auto_pc_2.v" \
+"../../../bd/system/ip/system_auto_pc_1/sim/system_auto_pc_1.v" \
+"../../../bd/system/ip/system_auto_pc_0/sim/system_auto_pc_0.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
